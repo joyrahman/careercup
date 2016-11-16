@@ -1,0 +1,33 @@
+- language syntax, core libraries , idioms, performanc issues
+- algorithms and data structures
+- analytical skills
+- sound design
+
+- java collection api 
+  list, maps, queue, stack 
+
+- algorithm
+  common graph algorithms 
+ 
+- analytical skills
+  how you approach the problem 
+
+
+
+
+### don't panic
+
+
+draw pictures 
+
+
+CTCI
+careercup
+
+
+
+must handle corner cases 
+any simple question, ask examples to explain
+
+Listen to Hints
+
